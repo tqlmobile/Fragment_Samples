@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="courseTitles">
+        <item >Intro to Android Development</item>
+        <item >Android Programming with Intents</item>
+        <item >Android Async Programming</item>
+        <item >Whats new in Android 4.0</item>
+    </string-array>
+    
+</resources>

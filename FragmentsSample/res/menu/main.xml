@@ -1,0 +1,6 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/listFragMenuItem" android:title="ListFragment"></item>
+    <item android:id="@+id/dialogFragMenuItem" android:title="DialogFragment"></item>
+    <item android:id="@+id/actionTab" android:title="Tabs Demo"></item>
+	
+</menu>
